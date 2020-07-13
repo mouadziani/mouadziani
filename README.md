@@ -1,4 +1,4 @@
-### <samp>Hey, there! 👋</samp>
+### <samp>Hey, there! 👋  [![HitCount](http://hits.dwyl.com/MouadZIANI/MouadZIANI.svg)](http://hits.dwyl.com/MouadZIANI/MouadZIANI)</samp>
 <samp>
   
 I'm a Software Engineering Student 👨‍🎓, highly motivated, dynamic, persevering, rigorous and passionate about IT & web and mobile development, I'm Full Stack Web Developer. My background contains various experiences and projects.
