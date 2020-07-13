@@ -1,6 +1,6 @@
-### <samp>Hey, there! 👋  [![HitCount](http://hits.dwyl.com/MouadZIANI/MouadZIANI.svg)](http://hits.dwyl.com/MouadZIANI/MouadZIANI)</samp>
+### <samp>Hey, there! 👋 </samp>
+
 <samp>
-  
 I'm a Software Engineering Student 👨‍🎓, highly motivated, dynamic, persevering, rigorous and passionate about IT & web and mobile development, I'm Full Stack Web Developer. My background contains various experiences and projects.
 
 ### Things I'm working on right now 👨‍💻
@@ -13,5 +13,7 @@ I'm a Software Engineering Student 👨‍🎓, highly motivated, dynamic, perse
 👨‍💼 [Linkedin](https://www.linkedin.com/in/mouad-ziani/)<br>
 🐦 [Facebook](https://www.facebook.com/mouad.ziani.romac)<br>
 🕸️ [Personal website](https://mouadziani.github.io/)<br>
+
+[![HitCount](http://hits.dwyl.com/MouadZIANI/MouadZIANI.svg)](http://hits.dwyl.com/MouadZIANI/MouadZIANI)
 
 </smap>
