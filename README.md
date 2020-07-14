@@ -3,10 +3,15 @@
 <samp>
 I'm a Software Engineering Student 👨‍🎓, highly motivated, dynamic, persevering, rigorous and passionate about IT & web and mobile development, I'm Full Stack Web Developer. My background contains various experiences and projects.
 
+<p>
+  <a href="https://blog.stephenajulu.com/"><img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=mouadziani&show_icons=true&hide_border=true"></a>
+</p>
+
 ### Things I'm working on right now 👨‍💻
 
 👨‍💻 Working as Software Engineer at [elsahariano](https://elsahariano.com)<br>
 📘 Learning deep concepts of software engineering such as DP, Solide principals, clean code practices & focusing on SAAS software 
+
 
 ### You can find me online 🔍
 
