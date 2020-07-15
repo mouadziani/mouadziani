@@ -1,7 +1,7 @@
 ### <samp>Hey, there! 👋 </samp>
 
 <samp>
-I'm a Software Engineering Student 👨‍🎓, highly motivated, dynamic, persevering, rigorous and passionate about IT & web and mobile development, I'm Full Stack Web Developer. My background contains various experiences and projects.
+I'm Mouad ZIANI, Software Engineering Student 👨‍🎓, highly motivated, dynamic, persevering, rigorous and passionate about IT & web and mobile development, I'm Full Stack Web Developer. My background contains various experiences and projects.
 
 <p>
   <a href="https://blog.stephenajulu.com/"><img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=mouadziani&show_icons=true&hide_border=true"></a>
