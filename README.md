@@ -9,7 +9,7 @@ I'm Mouad ZIANI, Software Engineering Student 👨‍🎓, highly motivated, dyn
 
 ### Things I'm working on right now 👨‍💻
 
-👨‍💻 Working as Software Engineer at [elsahariano](https://elsahariano.com)<br>
+👨‍💻 Working as Full Stack Engineer at [Promy](https://www.promy.fr/)<br>
 📘 Learning deep concepts of software engineering such as DP, Solide principals, clean code practices & focusing on SAAS software 
 
 
