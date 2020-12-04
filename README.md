@@ -10,12 +10,13 @@ I'm Mouad ZIANI, Software Engineering Student 👨‍🎓, highly motivated, dyn
 ### Things I'm working on right now 👨‍💻
 
 👨‍💻 Working as Full Stack Engineer at [Promy](https://www.promy.fr/)<br>
-📘 Learning deep concepts of software engineering such as DP, Solide principals, clean code practices & focusing on SAAS software 
+📘 Learning deep concepts of software engineering such as DP, solide principals, software architectures and clean code practices & focusing on SAAS softwares
 
 
 ### You can find me online 🔍
 
 👨‍💼 [Linkedin](https://www.linkedin.com/in/mouad-ziani/)<br>
+🐛 [Stackoverflow](https://stackoverflow.com/users/9735205/mouad-ziani)<br>
 🐦 [Facebook](https://www.facebook.com/mouad.ziani.romac)<br>
 🕸️ [Personal website](https://mouadziani.github.io/)<br>
 
