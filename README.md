@@ -18,9 +18,6 @@ I'm Mouad ZIANI, Software Engineering Student 👨‍🎓, highly motivated, dyn
 🐛 [Stackoverflow](https://stackoverflow.com/users/9735205/mouad-ziani)<br>
 🐦 [Facebook](https://www.facebook.com/mouad.ziani.romac)<br>
 🕸️ [Personal website](https://mouadziani.github.io/)<br>
-
-[![HitCount](http://hits.dwyl.com/MouadZIANI/MouadZIANI.svg)](http://hits.dwyl.com/MouadZIANI/MouadZIANI)
-
 </smap>
 
 ```php
@@ -62,4 +59,6 @@ class About extends Me
     }
 }
 ```
+
+[![HitCount](http://hits.dwyl.com/MouadZIANI/MouadZIANI.svg)](http://hits.dwyl.com/MouadZIANI/MouadZIANI)
 
