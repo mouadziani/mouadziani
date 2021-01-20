@@ -22,3 +22,44 @@ I'm Mouad ZIANI, Software Engineering Student 👨‍🎓, highly motivated, dyn
 [![HitCount](http://hits.dwyl.com/MouadZIANI/MouadZIANI.svg)](http://hits.dwyl.com/MouadZIANI/MouadZIANI)
 
 </smap>
+
+```php
+<?php
+
+namespace MouadZIANI;
+
+class About extends Me
+{
+    public function getCurrentWorkplace()
+    {
+        return [
+            'workplace' => [
+                'company' => 'Promy.fr',
+                'position' => 'Full Stack Developer',
+                'location' => 'localhost',        
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge()
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Python::class,
+            Java::class,
+            Laravel::class,
+            Vuejs::class,
+            Ionic::class,
+            TailwindCss::class,
+            Aws::class,
+        ];
+    }
+
+    public function getFutureGoal()
+    {
+        return 'Struggling to be ready to die !';
+    }
+}
+```
+
