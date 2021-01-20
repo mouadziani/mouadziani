@@ -34,7 +34,7 @@ class About extends Me
             'workplace' => [
                 'company' => 'Promy.fr',
                 'position' => 'Full Stack Developer',
-                'location' => 'localhost',        
+                'location' => 'localhost'        
             ]
         ];
     }
@@ -48,9 +48,10 @@ class About extends Me
             Java::class,
             Laravel::class,
             Vuejs::class,
-            Ionic::class,
             TailwindCss::class,
-            Aws::class,
+            Angular::class,
+            Ionic::class,
+            Docker::class
         ];
     }
 
