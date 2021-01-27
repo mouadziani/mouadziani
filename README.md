@@ -1,6 +1,5 @@
 ### <samp>Hey, there! 👋 </samp>
 
-<samp>
 Full Stack Web Developer & Final  year  Master  degree  student  specialized  in  Computer  System  Engineering,  highly  motivated, dynamic, persevering & rigorous and passionate about IT, web and mobile development.
 My background contains various experiences and projects represented below.
 
@@ -19,7 +18,6 @@ My background contains various experiences and projects represented below.
 🐛 [Stackoverflow](https://stackoverflow.com/users/9735205/mouad-ziani)<br>
 🐦 [Facebook](https://www.facebook.com/mouad.ziani.romac)<br>
 🕸️ [Personal website](https://mouadziani.github.io/)<br>
-</smap>
 
 ```php
 <?php
