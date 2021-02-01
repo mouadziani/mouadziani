@@ -9,8 +9,7 @@ My background contains various experiences and projects represented below.
 
 ### Things I'm working on right now 👨‍💻
 
-💻 Working as Fullstack Engineer at [Promy.fr](https://www.promy.fr/)
-
+💻 Working as Fullstack Engineer at [Promy.fr](https://www.promy.fr/)<br>
 📘 Learning deep concepts of software engineering such as DP, solide principals, software architectures and clean code practices & focusing on SAAS softwares
 
 
