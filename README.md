@@ -1,6 +1,6 @@
 ### <samp>Hey, there! 👋 </samp>
 
-Full Stack Web Developer & Final  year  Master  degree  student  specialized  in  Computer  System  Engineering,  highly  motivated, dynamic, persevering & rigorous and passionate about IT, web and mobile development.
+I'm Mouad ZIANI, Full Stack Web Developer & Final  year  Master  degree  student  specialized  in  Computer  System  Engineering,  highly  motivated, dynamic, persevering & rigorous and passionate about IT, web and mobile development.
 My background contains various experiences and projects represented below.
 
 <p>
