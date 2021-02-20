@@ -1,7 +1,6 @@
 ### <samp>Hey, there! 👋 </samp>
 
 I'm Mouad ZIANI, Full Stack Web Developer & Final  year  Master  degree  student  specialized  in  Computer  System  Engineering,  highly  motivated, dynamic, persevering & rigorous and passionate about IT, web and mobile development.
-My background contains various experiences and projects represented below.
 
 <p>
   <a href="https://blog.stephenajulu.com/"><img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=mouadziani&show_icons=true&hide_border=true"></a>
