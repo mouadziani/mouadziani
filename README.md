@@ -21,7 +21,7 @@ My background contains various experiences and projects represented below.
 🕸️ [Personal website](https://mouadziani.github.io/)<br>
 
 <details>
-<summary>Load more...</summary>
+<summary>[Click here] to read as Developer...</summary>
 
 ```php
 <?php
