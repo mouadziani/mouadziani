@@ -15,10 +15,17 @@ My background contains various experiences and projects represented below.
 
 ### You can find me online 🔍
 
-👨‍💼 [Linkedin](https://www.linkedin.com/in/mouad-ziani/)<br>
-🐛 [Stackoverflow](https://stackoverflow.com/users/9735205/mouad-ziani)<br>
-🐦 [Facebook](https://www.facebook.com/mouad.ziani.romac)<br>
-🕸️ [Personal website](https://mouadziani.github.io/)<br>
+<p>
+  <a href="https://twitter.com/romacziani">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+  </a> 
+  <a href="https://www.linkedin.com/in/mouad-ziani/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a>
+  <a href="https://www.instagram.com/_mouad_ziani">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+  </a>
+</p>
 
 <details>
 <summary>[Click here] to read as Developer...</summary>
