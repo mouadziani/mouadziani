@@ -20,6 +20,9 @@ My background contains various experiences and projects represented below.
 🐦 [Facebook](https://www.facebook.com/mouad.ziani.romac)<br>
 🕸️ [Personal website](https://mouadziani.github.io/)<br>
 
+<details>
+<summary>Load more...</summary>
+
 ```php
 <?php
 
@@ -60,6 +63,7 @@ class About extends Me
     }
 }
 ```
+</details>
 
 [![HitCount](http://hits.dwyl.com/MouadZIANI/MouadZIANI.svg)](http://hits.dwyl.com/MouadZIANI/MouadZIANI)
 
