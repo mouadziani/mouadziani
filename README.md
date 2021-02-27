@@ -24,9 +24,6 @@ I'm Mouad ZIANI, Full Stack Web Developer & Final  year  Master  degree  student
   <a href="https://www.instagram.com/_mouad_ziani">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a>
-  
-  [![HitCount](http://hits.dwyl.com/MouadZIANI/MouadZIANI.svg)](http://hits.dwyl.com/MouadZIANI/MouadZIANI)
-
 </p>
 
 <details>
@@ -74,3 +71,4 @@ class About extends Me
 ```
 </details>
 
+[![HitCount](http://hits.dwyl.com/MouadZIANI/MouadZIANI.svg)](http://hits.dwyl.com/MouadZIANI/MouadZIANI)
