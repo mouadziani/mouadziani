@@ -15,7 +15,7 @@ I'm Mouad ZIANI, Full Stack Web Developer & Final  year  Master  degree  student
 ### You can find me online 🔍
 
 <p>
-  <a href="https://twitter.com/romacziani">
+  <a href="https://twitter.com/_mouad_ziani">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a> 
   <a href="https://www.linkedin.com/in/mouad-ziani/">
