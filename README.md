@@ -1,16 +1,10 @@
 ### <samp>Hey, there! 👋 </samp>
 
-I'm Mouad ZIANI, Full Stack Web Developer & Final  year  Master  degree  student  specialized  in  Computer  System  Engineering,  highly  motivated, dynamic, persevering & rigorous and passionate about IT, web and mobile development.
+I'm 23 years old, Fulstack Engineer on web ecosystem, MSc degree student spicialied in Computer System Engineering and passionate about software engineering, with strong background in PHP, Javascript/Typescript, Java and Python.
 
-<p>
-  <a href="https://blog.stephenajulu.com/"><img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=mouadziani&show_icons=true&hide_border=true"></a>
-</p>
+I have over +3 years of experience at private IT companies. Also as a freelancer.
 
-### Things I'm working on right now 👨‍💻
-
-💻 Working as Full Stack Software Engineer at [Promy.fr](https://www.promy.fr/)<br>
-📘 Learning deep concepts of software engineering such as DP, solide principals, software architectures and clean code practices & focusing on SaaS softwares
-
+I'm positive, open-minded and determined. I'm always looking for personal and professional self-improvement, looking for greater and bigger challenges, and for great opportunities of sharing and learning with the best. 
 
 ### You can find me online 🔍
 
@@ -27,48 +21,8 @@ I'm Mouad ZIANI, Full Stack Web Developer & Final  year  Master  degree  student
 </p>
 
 <details>
-<summary>[Click here] to read as Developer...</summary>
-
-```php
-<?php
-
-namespace MouadZIANI;
-
-class About extends Me
-{
-    public function getCurrentWorkplace()
-    {
-        return [
-            'workplace' => [
-                'company' => 'Promy.fr',
-                'position' => 'Full Stack Developer',
-                'location' => 'localhost'        
-            ]
-        ];
-    }
-
-    public function getDailyKnowledge()
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Python::class,
-            Java::class,
-            Laravel::class,
-            Vuejs::class,
-            TailwindCss::class,
-            Angular::class,
-            Ionic::class,
-            Docker::class
-        ];
-    }
-
-    public function getFutureGoal()
-    {
-        return 'Struggling to be ready to die !';
-    }
-}
-```
-</details>
+<summary>[Click here] Metrics</summary>
 
 [![HitCount](http://hits.dwyl.com/MouadZIANI/MouadZIANI.svg)](http://hits.dwyl.com/MouadZIANI/MouadZIANI)
+</details>
+
