@@ -8,7 +8,7 @@ I'm Mouad ZIANI, Full Stack Web Developer & Final  year  Master  degree  student
 
 ### Things I'm working on right now 👨‍💻
 
-💻 Working as Fullstack Web Developer at [Promy.fr](https://www.promy.fr/)<br>
+💻 Working as Full Stack Software Engineer at [Promy.fr](https://www.promy.fr/)<br>
 📘 Learning deep concepts of software engineering such as DP, solide principals, software architectures and clean code practices & focusing on SaaS softwares
 
 
