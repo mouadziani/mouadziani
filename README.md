@@ -1,5 +1,5 @@
 ### Hey, there! 👋
-I'm Mouad ZIANI, Fulstack Software Engineer on web ecosystem, MSc degree student specialised in Computer System Engineering and passionate about software engineering, with strong background in PHP, Javascript/Typescript, Java and Python.
+I'm Mouad ZIANI, Full Stack Developer on web ecosystem, MSc degree student specialised in Computer System Engineering and passionate about software engineering, with strong background in PHP, Javascript/Typescript, Java and Python.
 
 I have over +3 years of experience at private IT companies. Also as a freelancer.
 
@@ -21,7 +21,7 @@ I'm positive, open-minded and determined. I'm always looking for personal and pr
 <details>
 <summary>👇 Statistics</summary>
 <p>
-  <a href="https://blog.stephenajulu.com/"><img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=mouadziani&show_icons=true&hide_border=true"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mouadziani&show_icons=true&hide_border=true">
 </p>
   
 [![HitCount](http://hits.dwyl.com/MouadZIANI/MouadZIANI.svg)](http://hits.dwyl.com/MouadZIANI/MouadZIANI)
