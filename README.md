@@ -7,14 +7,14 @@ I'm positive, open-minded and determined. I'm always looking for personal and pr
 
 ### You can find me online 🔍
 <p>
-  <a href="https://twitter.com/_mouad_ziani">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-  </a> 
-  <a href="https://www.linkedin.com/in/mouad-ziani/">
+  <a target="_blank" href="https://www.linkedin.com/in/mouad-ziani/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
-  <a href="https://www.instagram.com/_mouad_ziani">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+  <a target="_blank" href="mailto:mouad.ziani1997@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  </a>
+  <a target="_blank" href="https://twitter.com/_mouad_ziani">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a>
 </p>
 
