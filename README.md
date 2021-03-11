@@ -1,4 +1,4 @@
-### Hey, there 👋 !
+### Hey, there !
 I'm Mouad ZIANI, Full Stack Developer on web ecosystem, MSc degree student specialised in Computer System Engineering and passionate about software engineering, with strong background in PHP, Javascript/Typescript, Java and Python.
 
 I have over +3 years of experience at private IT companies. Also as a freelancer.
