@@ -1,11 +1,11 @@
-### Hey, there! 👋
+### Hey, there 👋 !
 I'm Mouad ZIANI, Full Stack Developer on web ecosystem, MSc degree student specialised in Computer System Engineering and passionate about software engineering, with strong background in PHP, Javascript/Typescript, Java and Python.
 
 I have over +3 years of experience at private IT companies. Also as a freelancer.
 
 I'm positive, open-minded and determined. I'm always looking for personal and professional self-improvement, looking for greater and bigger challenges, and for great opportunities of sharing and learning with the best. 
 
-### You can find me online 🔍
+### You can find me online:
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/mouad-ziani/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
