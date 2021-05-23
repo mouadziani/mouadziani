@@ -27,8 +27,7 @@ I'm positive, open-minded and determined. I'm always looking for personal and pr
 [![HitCount](http://hits.dwyl.com/MouadZIANI/MouadZIANI.svg)](http://hits.dwyl.com/MouadZIANI/MouadZIANI)
 </details>
 
-> Drop down all those imaginations and feelings that "Success is built on Success". 
-> A HERO can be built from ZERO. Begin from where you stand with what you have!
+> Jut be ready to DIE (the HELL is coming anyways)
 >
-> -- <cite>Israelmore Ayivor</cite>
+> -- <cite>Mouad ZIANI</cite>
 
