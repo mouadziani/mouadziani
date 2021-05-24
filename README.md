@@ -27,7 +27,7 @@ I'm positive, open-minded and determined. I'm always looking for personal and pr
 [![HitCount](http://hits.dwyl.com/MouadZIANI/MouadZIANI.svg)](http://hits.dwyl.com/MouadZIANI/MouadZIANI)
 </details>
 
-> Jut be ready to DIE (the HELL is coming anyways)
+> Just be ready to die (the HELL is coming anyways)
 >
 > -- <cite>Mouad ZIANI</cite>
 
