@@ -24,7 +24,7 @@ I'm positive, open-minded and determined. I'm always looking for personal and pr
   <img src="https://github-readme-stats.vercel.app/api?username=mouadziani&show_icons=true&hide_border=true">
 </p>
   
-[![HitCount](http://hits.dwyl.com/MouadZIANI/MouadZIANI.svg)](http://hits.dwyl.com/MouadZIANI/MouadZIANI)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mouadziani)
 </details>
 
 > Just be ready to die (the HELL is coming anyways)
