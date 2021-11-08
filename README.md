@@ -1,7 +1,7 @@
 ### Hey, there !
 I'm <a target="_blank" href="https://www.mouadziani.com/">Mouad ZIANI</a>, Software Engineer on web ecosystem, graduated with a Master's degree specialised in Computer System Engineering and passionate about software engineering, with strong background in PHP, Javascript/Typescript, Java and Python.
 
-I have over +3 years of experience at private IT companies. Also as a freelancer.
+I have over +4 years of experience at private IT companies. Also as a freelancer.
 
 I'm positive, open-minded and determined. I'm always looking for personal and professional self-improvement, looking for greater and bigger challenges, and for great opportunities of sharing and learning with the best. 
 
