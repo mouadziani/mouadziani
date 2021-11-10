@@ -1,11 +1,5 @@
-### Hey, there !
-I'm <a target="_blank" href="https://www.mouadziani.com/">Mouad ZIANI</a>, Software Engineer on web ecosystem, graduated with a Master's degree specialised in Computer System Engineering and passionate about software engineering, with strong background in PHP, Javascript/Typescript, Java and Python.
+## Hey ! I'm [Mouad Ziani](https://mouadziani.com)
 
-I have over +4 years of experience at private IT companies. Also as a freelancer.
-
-I'm positive, open-minded and determined. I'm always looking for personal and professional self-improvement, looking for greater and bigger challenges, and for great opportunities of sharing and learning with the best. 
-
-### You can find me online:
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/mouad-ziani/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
@@ -18,16 +12,19 @@ I'm positive, open-minded and determined. I'm always looking for personal and pr
   </a>
 </p>
 
-<details>
-<summary>👇 Statistics</summary>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mouadziani&show_icons=true&hide_border=true">
-</p>
-  
+<a href="https://github.com/mouadziani">
+  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mouadziani&show_icons=true&hide_border=true" align="right" height="150" />
+</a>
+
+I am a Software Engineer & Full-Stack Web Developer with more than **4 years of experience** at private IT companies. also as a freelancer, graduated with a Master's degree specialised in Computer System Engineering and passionate about software engineering, with strong background in PHP, Laravel ecosystem, Javascript/Typescript, Java and Python.
+
+### 📦 I'm currently working on...
+- [SaaSify](https://github.com/mouadziani/saasify) (Not public yet), A free and opensource [laravel spark](https://spark.laravel.com/) alternative as a built-in SaaS portal based on laravel cashier & [TALL Stack](https://tallstack.dev/), which provide a headless billing/subscriptions/invoices management which you can easily integrate into your fresh or existing laravel project.
+
+- [Laravel-mercanet](https://github.com/mouadziani/laravel-mercanet), A laravel wrapper for [BnpParibas Mercanet](https://mabanquepro.bnpparibas/fr/notre-offre-pro/comptes-cartes-et-services/solutions-d-encaissement/encaissement-internet-et-mobile/offre-e-commerce-mercanet) which provide a lightweight public api to process your online payments from your laravel application.
+
+#### 📕 I'm currently learning about...
+- Software architectures (**DDD. domain driven design**, **Hexagonal architecture** and **Microservices**).
+- Deep software engineering concepts such as (Design patterns, solide principles...).
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mouadziani)
-</details>
-
-> Just be ready to die (the HELL is coming anyways)
->
-> -- <cite>Mouad ZIANI</cite>
-
