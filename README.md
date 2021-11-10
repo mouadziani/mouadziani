@@ -1,5 +1,3 @@
-## Hey ! I'm [Mouad Ziani](https://mouadziani.com)
-
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/mouad-ziani/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
@@ -16,7 +14,7 @@
   <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mouadziani&show_icons=true&hide_border=true" align="right" height="150" />
 </a>
 
-I am a Software Engineer & Full-Stack Web Developer with more than **4 years of experience** at private IT companies. also as a freelancer, graduated with a Master's degree specialised in Computer System Engineering and passionate about software engineering, with strong background in PHP, Laravel ecosystem, Javascript/Typescript, Java and Python.
+Hey ! I'm [Mouad ZIANI](https://mouadziani.com) a Software Engineer & Full-Stack Web Developer with more than **4 years of experience** at private IT companies. also as a freelancer, graduated with a Master's degree specialised in Computer System Engineering and passionate about software engineering, with strong background in PHP, Laravel ecosystem, Javascript/Typescript, Java and Python.
 
 ### 📦 I'm currently working on...
 - [SaaSify](https://github.com/mouadziani/saasify) (Not public yet), A free and opensource [laravel spark](https://spark.laravel.com/) alternative as a built-in SaaS portal based on laravel cashier & [TALL Stack](https://tallstack.dev/), which provide a headless billing/subscriptions/invoices management which you can easily integrate into your fresh or existing laravel project.
