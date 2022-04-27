@@ -10,10 +10,6 @@
   </a>
 </p>
 
-<a href="https://github.com/mouadziani">
-  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mouadziani&show_icons=true&hide_border=true" align="right" height="135" />
-</a>
-
 Hey ! I'm [Mouad ZIANI](https://mouadziani.com) a Software Engineer & Full-Stack Web Developer with more than **4 years of experience** at private IT companies. also as a freelancer, graduated with a Master's degree specialised in Computer System Engineering and passionate about software engineering, with strong background in PHP, Laravel ecosystem, Javascript/Typescript, Java and Python.
 
 ### 📦 I'm currently working on...
