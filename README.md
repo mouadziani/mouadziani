@@ -12,7 +12,11 @@
 
 Hey ! I'm [Mouad ZIANI](https://mouadziani.com) a Software Engineer & Full-Stack Web Developer with more than **4 years of experience** at private IT companies. also as a freelancer, graduated with a Master's degree specialised in Computer System Engineering and passionate about software engineering, with strong background in PHP, Laravel ecosystem, Javascript/Typescript, Java and Python.
 
-### 📦 I'm currently working on...
-- [XState](https://github.com/mouadziani/xstate), State machine library to play with any complex behavior of your PHP objects.
-- [Laravel-mercanet](https://github.com/mouadziani/laravel-mercanet), A laravel wrapper for [BnpParibas Mercanet](https://mabanquepro.bnpparibas/fr/notre-offre-pro/comptes-cartes-et-services/solutions-d-encaissement/encaissement-internet-et-mobile/offre-e-commerce-mercanet) which provide a lightweight public api to process your online payments from your laravel application.
+### Open source projects
+
+I spend a good amount of time each weekend working on open-source projects for a variety of different languages and frameworks. Below is a list of my favourite projects:
+
+- [XState](https://github.com/mouadziani/xstate) (WIP), State machine library to play with any complex behavior of your PHP objects.
+- [Laravel-mercanet](https://github.com/mouadziani/laravel-mercanet) (Done), A laravel wrapper for [BnpParibas Mercanet](https://mabanquepro.bnpparibas/fr/notre-offre-pro/comptes-cartes-et-services/solutions-d-encaissement/encaissement-internet-et-mobile/offre-e-commerce-mercanet) which provide a lightweight public api to process your online payments from your laravel application.
+- [Laravel Query Inspector](https://github.com/mouadziani/laravel-query-inspector) (Done), The missing laravel helper that allows you to ispect your eloquent queries with it's binding parameters.
 - [SaaSify](https://github.com/mouadziani/saasify) (Not published yet), A free and opensource [laravel spark](https://spark.laravel.com/) alternative as a built-in SaaS portal based on laravel cashier & [TALL Stack](https://tallstack.dev/), which provide a headless billing/subscriptions/invoices management which you can easily integrate into your fresh or existing laravel project.
