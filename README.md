@@ -16,7 +16,7 @@ Hey ! I'm [Mouad ZIANI](https://mouadziani.com) a Software Engineer & Full-Stack
 
 I spend a good amount of time each weekend working on open-source projects for a variety of different languages and frameworks. Below is a list of my favourite projects:
 
-- [XState](https://github.com/mouadziani/xstate) (WIP), State machine library to play with any complex behavior of your PHP objects.
+- [XState](https://github.com/mouadziani/xstate) (Done), State machine library to play with any complex behavior of your PHP objects.
 - [Laravel Mercanet](https://github.com/mouadziani/laravel-mercanet) (Done), A laravel wrapper for [BnpParibas Mercanet](https://mabanquepro.bnpparibas/fr/notre-offre-pro/comptes-cartes-et-services/solutions-d-encaissement/encaissement-internet-et-mobile/offre-e-commerce-mercanet) which provide a lightweight public api to process your online payments from your laravel application.
 - [Security Analyzer](https://github.com/security-analyzer/core) (Done), A large scale web crawler to take an overview about security of Moroccan sites (released for my Master's degree thesis).
 - [Laravel Query Inspector](https://github.com/mouadziani/laravel-query-inspector) (Done), The missing laravel helper that allows you to ispect your eloquent queries with it's binding parameters.
