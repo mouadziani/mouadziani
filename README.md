@@ -10,7 +10,7 @@
   </a>
 </p>
 
-Hey ! I'm [Mouad ZIANI](https://mouadziani.com) a Software Engineer & Full-Stack Web Developer with more than **4 years of experience** at private IT companies. also as a freelancer, graduated with a Master's degree specialised in Computer System Engineering and passionate about software engineering, with strong background in PHP, Laravel ecosystem, Javascript/Typescript, Java and Python.
+Hey ! I'm [Mouad ZIANI](https://mouadziani.com) a Software Engineer & Full-Stack Web Developer with more than **5 years of experience** at private IT companies. also as a freelancer, graduated with a Master's degree specialised in Computer System Engineering and passionate about software engineering, with strong background in PHP, Laravel ecosystem, Javascript/Typescript, Java and Python.
 
 ### Open source projects
 
