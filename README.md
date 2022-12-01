@@ -1,6 +1,6 @@
 <p align="center">
   <samp align="center">
-    Experienced Full Stack Software Engineer with strong background in <strong title="PHP/Laravel">PHP/Laravel Stacks</strong> and <strong title="Vue.js/Nuxt.js">Vue.js/Nuxt.js</strong>.
+    Experienced Full Stack Software Engineer with strong background in <strong title="PHP/Laravel">PHP/Laravel Ecosystem</strong> and <strong title="Vue.js/Nuxt.js">Vue.js/Nuxt.js</strong>.
     <br/>
     <a href="https://mouadziani.com?ref=github">Website</a> .
     <a href="https://linkedin.com/in/mouad-ziani/">LinkedIn</a> .
