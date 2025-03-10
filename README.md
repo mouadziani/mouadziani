@@ -9,7 +9,6 @@
     <br/>
     <a href="https://trancehipster.com?ref=github">Website</a> .
     <a href="https://linkedin.com/in/mouad-ziani/">LinkedIn</a> .
-    <a href="https://twitter.com/_mouad_ziani">Twitter</a> .
-    <a href="https://instagram.com/mouadziani.js">Instagram</a>
+    <a href="https://twitter.com/_mouad_ziani">Twitter</a>
   </samp>
 </p>
