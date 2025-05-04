@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="cover.png">
-  <img src="cover.png">
-</picture>
-
 <p align="center">
   <samp align="center">
     Experienced Full Stack Software Engineer with strong background in <strong title="PHP/Laravel">PHP/Laravel Ecosystem</strong> and <strong title="Vue.js/Nuxt.js">Vue.js/Nuxt.js</strong>.
